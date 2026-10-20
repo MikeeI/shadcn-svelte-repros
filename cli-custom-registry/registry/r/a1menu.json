@@ -1,0 +1,12 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "a1menu",
+	"type": "registry:ui",
+	"files": [
+		{
+			"type": "registry:ui",
+			"target": "a1menu/a1menu.svelte",
+			"content": "<script lang=\"ts\">\n\tlet { open = false }: { open?: boolean } = $props();\n</script>\n\n<div class=\"cn-menu-target p-2\">outside</div>\n{#if open}\n\t<div class=\"cn-menu-target p-4\">inside</div>\n{/if}\n"
+		}
+	]
+}

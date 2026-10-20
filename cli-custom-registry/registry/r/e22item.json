@@ -1,0 +1,12 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "e22item",
+	"type": "registry:item",
+	"files": [
+		{
+			"type": "registry:file",
+			"target": "~/e22.txt",
+			"content": "hello\n"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+  "name": "e2card",
+  "type": "registry:ui",
+  "files": [
+    {
+      "type": "registry:ui",
+      "target": "e2card/e2card.svelte",
+      "content": "<div class=\"bg-e2\">card</div>\n"
+    }
+  ],
+  "cssVars": {
+    "light": {
+      "e2": "oklch(0.5 0.2 30)"
+    }
+  }
+}

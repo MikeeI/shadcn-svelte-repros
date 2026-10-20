@@ -1,0 +1,17 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "e20css",
+	"type": "registry:ui",
+	"files": [
+		{
+			"type": "registry:ui",
+			"target": "e20css/e20css.svelte",
+			"content": "<h1>x</h1>\n"
+		}
+	],
+	"css": {
+		"@layer base": {
+			"h1": "font-size: 2rem"
+		}
+	}
+}

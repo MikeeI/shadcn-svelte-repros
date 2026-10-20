@@ -1,0 +1,8 @@
+[
+  {
+    "name": "e2card",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "e2card.json"
+  }
+]

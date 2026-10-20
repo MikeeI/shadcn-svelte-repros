@@ -1,0 +1,44 @@
+[
+  {
+    "name": "e2card",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "e2card.json"
+  },
+  {
+    "name": "e6icons",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "e6icons.json"
+  },
+  {
+    "name": "a1menu",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "a1menu.json"
+  },
+  {
+    "name": "e19vars",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "e19vars.json"
+  },
+  {
+    "name": "e20css",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "e20css.json"
+  },
+  {
+    "name": "e21css",
+    "type": "registry:ui",
+    "registryDependencies": [],
+    "relativeUrl": "e21css.json"
+  },
+  {
+    "name": "e22item",
+    "type": "registry:item",
+    "registryDependencies": [],
+    "relativeUrl": "e22item.json"
+  }
+]

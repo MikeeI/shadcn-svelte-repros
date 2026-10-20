@@ -1,0 +1,17 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "e18files",
+	"type": "registry:lib",
+	"files": [
+		{
+			"type": "registry:lib",
+			"target": "e18/helper.ts",
+			"content": "export const a: number = 1;\n"
+		},
+		{
+			"type": "registry:file",
+			"target": "~/e18-data.json",
+			"content": "{\n\t\"a\": 1\n}\n"
+		}
+	]
+}

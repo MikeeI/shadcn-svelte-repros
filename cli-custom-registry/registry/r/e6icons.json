@@ -1,0 +1,12 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "e6icons",
+	"type": "registry:ui",
+	"files": [
+		{
+			"type": "registry:ui",
+			"target": "e6icons/e6icons.svelte",
+			"content": "<script lang=\"ts\">\n\timport IconPlaceholder from \"$lib/components/icon-placeholder/index.js\";\n</script>\n\n<IconPlaceholder lucide=\"CheckIcon\" tabler=\"IconCheck\" hugeicons=\"Tick02Icon\" phosphor=\"CheckIcon\" remixicon=\"RiCheckLine\" />\n<IconPlaceholder lucide=\"CheckIcon\" tabler=\"IconCheck\" hugeicons=\"Tick02Icon\" phosphor=\"CheckIcon\" remixicon=\"RiCheckLine\" />\n"
+		}
+	]
+}

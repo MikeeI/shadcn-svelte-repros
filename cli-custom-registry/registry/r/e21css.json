@@ -1,0 +1,22 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "e21css",
+	"type": "registry:ui",
+	"files": [
+		{
+			"type": "registry:ui",
+			"target": "e21css/e21css.svelte",
+			"content": "<h1>x</h1>\n"
+		}
+	],
+	"css": {
+		"@layer base": {
+			"h1, h2": {
+				"color": "red",
+				"&:hover": {
+					"color": "blue"
+				}
+			}
+		}
+	}
+}

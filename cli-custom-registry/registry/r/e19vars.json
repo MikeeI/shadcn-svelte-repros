@@ -1,0 +1,17 @@
+{
+	"$schema": "https://shadcn-svelte.com/schema/registry-item.json",
+	"name": "e19vars",
+	"type": "registry:ui",
+	"files": [
+		{
+			"type": "registry:ui",
+			"target": "e19vars/e19vars.svelte",
+			"content": "<div class=\"bg-brand\">x</div>\n"
+		}
+	],
+	"cssVars": {
+		"light": {
+			"--brand": "oklch(0.5 0.1 200)"
+		}
+	}
+}

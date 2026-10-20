@@ -1,0 +1,2 @@
+@import "tailwindcss";
+@custom-variant sidebar-open (&:is(.sidebar-open *));
